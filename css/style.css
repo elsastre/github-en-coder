@@ -1,5 +1,17 @@
 
 
+h2 {
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
+}
+
+h2:hover {
+    color: aquamarine;
+    text-transform: uppercase;
+    animation: 0.9s;
+}
+
 
 p {
     color: red;
